@@ -11,4 +11,4 @@ Each ZIP has a `.sha256` file beside it. To check a download:
 shasum -a 256 -c hisohiso-v*-darwin-universal.zip.sha256
 ```
 
-Hiso runs on Apple Silicon and Intel Macs with macOS 14 or later.
+Hiso needs an Apple Silicon Mac with macOS 14 or later.
